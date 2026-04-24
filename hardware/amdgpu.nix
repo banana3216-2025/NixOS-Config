@@ -1,6 +1,0 @@
-{ config, pkgs, ... }:
-
-{
-  services.xserver.videoDrivers = [ "amdgpu" ];
-  hardware.graphics.enable = true;
-}
