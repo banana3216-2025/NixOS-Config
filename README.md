@@ -1,4 +1,4 @@
 # NixOS-Config
 My nixos configuration
 
-This config also pulls form my wallpapers repo
+Uses Flakes and is made for multi-host setups
